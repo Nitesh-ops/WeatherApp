@@ -1,0 +1,73 @@
+.mainDiv {
+  max-width: 30%;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.heading {
+  background-color: #343a40;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  color: white;
+}
+
+.weatherInfo {
+  background-color: #eceff1;
+}
+
+.temp {
+  font-size: 50px;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+.grid-item1 {
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+  font-size: 40px;
+  margin-left: auto;
+}
+.grid-item2 {
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+  font-size: 40px;
+  margin-right: auto;
+}
+.grid-item3 {
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: auto;
+  font-weight: bolder;
+}
+.grid-item4 {
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: auto;
+}
+
+.slide {
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+.dailyInfo{
+  background-color: #CFD8DC;
+}
+
+ .hourlyInfo {
+  /* font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center; */
+  background-color: #B0C4DE;
+} 
+
